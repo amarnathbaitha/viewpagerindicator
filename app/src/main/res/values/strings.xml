@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewpagerIndicator</string>
+    <string name="hot_deal_menus">Hot Deal Menus</string>
+    <string name="price">Price</string>
+    <string name="salad_cream">Salad Cream</string>
+    <string name="test">Test</string>
+</resources>
