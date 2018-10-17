@@ -18,8 +18,6 @@ import java.util.List;
  */
 public class MainActivity extends AppCompatActivity {
 
-    //amar here
-
     private static final String TAG = MainActivity.class.getSimpleName();
     private ViewPager mViewPager;
     private CustomViewPagerAdapter mAdapter;
